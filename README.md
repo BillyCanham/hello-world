@@ -1,1 +1,2 @@
 # hello-world
+I am early in my pursuit of learning code to become a freelance developer, so that i can have the freedom and flexibility to work where i want and with whom i want. I love travelling and would like to travel more and try living in foreign countries. Learning to code will provide me the mental challenges as well as the potential freedom to be wherever i want and still be able to earn a living an internet connection.
